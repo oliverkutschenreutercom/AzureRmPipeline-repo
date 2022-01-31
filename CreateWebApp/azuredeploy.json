@@ -4,6 +4,7 @@
   "parameters": {
     "projectName": {
       "type": "string",
+      "defaultValue":"FirstDevOpsPipe",
       "minLength": 3,
       "maxLength": 11,
       "metadata": {
